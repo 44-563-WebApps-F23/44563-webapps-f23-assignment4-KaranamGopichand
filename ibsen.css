@@ -7,6 +7,9 @@
     color:black;
     font-size: 25px;
 }
+.name{
+    color:darkorange;
+}
 .direction:hover{
     color: cornsilk;
     background-color: violet;
