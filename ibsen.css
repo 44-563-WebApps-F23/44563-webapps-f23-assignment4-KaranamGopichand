@@ -23,3 +23,13 @@
     font-size: 30;
     color: dodgerblue;
 }
+table ,th,td{
+    border: 1px solid;
+    color:brown;
+    text-align: left;
+    padding:0px;
+    margin: 0px;
+}
+td{
+    background-color: cornflowerblue;
+}
