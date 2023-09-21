@@ -11,6 +11,22 @@
     color: cornsilk;
     background-color: violet;
 }
+.SOLNESS:hover{
+    border: solid 2px rgb(153, 92, 215);
+    text-shadow: 3px 3px 3px rgb(132, 59, 122);
+}
+.KAIA:hover{
+    border: solid 2px rgb(153, 92, 215);
+    text-shadow: 3px 3px 3px rgb(132, 59, 122);
+}
+.MRSSOLNES:hover{
+    border: solid 2px rgb(153, 92, 215);
+    text-shadow: 3px 3px 3px rgb(132, 59, 122);
+}
+.HILDA:hover{
+    border: solid 2px rgb(153, 92, 215);
+    text-shadow: 3px 3px 3px rgb(132, 59, 122);
+}
 .SOLNESS{
     font-size: 20;
     color: darkblue;
@@ -19,9 +35,13 @@
     font-size: 35;
     color: darkred;
 }
-.MRS SOLNESS{
+.MRSSOLNESS{
     font-size: 30;
     color: dodgerblue;
+}
+.HILDA{
+    font-size: 35;
+    color: forestgreen;
 }
 table ,th,td{
     border: 1px solid;
