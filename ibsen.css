@@ -1,0 +1,25 @@
+.speech{
+    color:black;
+    font-size: medium;
+}
+.direction{
+    background-color: aliceblue;
+    color:black;
+    font-size: small;
+}
+.name{
+    color: chocolate;
+}
+.direction:hover{
+    color: cornsilk;
+    background-color: violet;
+}
+.SOLNESS{
+    color: darkblue;
+}
+.KAIA{
+    color: darkred;
+}
+.MRS SOLNESS{
+    color: dodgerblue;
+}
