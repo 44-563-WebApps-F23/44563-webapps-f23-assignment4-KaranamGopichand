@@ -1,25 +1,25 @@
 .speech{
     color:black;
-    font-size: medium;
+    font-size: 20px;
 }
 .direction{
     background-color: aliceblue;
     color:black;
-    font-size: small;
-}
-.name{
-    color: chocolate;
+    font-size: 25px;
 }
 .direction:hover{
     color: cornsilk;
     background-color: violet;
 }
 .SOLNESS{
+    font-size: 20;
     color: darkblue;
 }
 .KAIA{
+    font-size: 35;
     color: darkred;
 }
 .MRS SOLNESS{
+    font-size: 30;
     color: dodgerblue;
 }
